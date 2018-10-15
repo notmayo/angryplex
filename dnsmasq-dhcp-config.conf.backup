@@ -1,0 +1,8 @@
+address=/watch.plex/192.168.1.100
+address=/tv.plex/192.168.1.100
+address=/movies.plex/192.168.1.100
+address=/stats.plex/192.168.1.100
+address=/request.plex/192.168.1.100
+address=/requests.plex/192.168.1.100
+address=/admin.plex/192.168.1.100
+address=/torrents.plex/192.168.1.100
